@@ -1,0 +1,15 @@
+
+True
+serialOne|RCB|True|testfor @e|{Duration:999999}
+sayOut|CCB|True|say @e|{Duration:999999}
+sayTwo|CCB|False|say 2|{Duration:999999}
+sayThr|CCB|True|weather|{Duration:999999}
+End_partN
+False
+lonely|RCB|True|give Mine268 stone 1 0|{Duration:999999}
+End_partN
+True
+remove|RCB|True|teaco|{Duration:999999}
+beAway|CCB|True|Must|{Duration:999999}
+contact|CCB|True|content|{Duration:999999}
+End_partN

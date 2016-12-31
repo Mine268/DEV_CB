@@ -1,0 +1,2 @@
+scoreboard objectives add count dummy count
+scoreboard objectives add countT trigger countT

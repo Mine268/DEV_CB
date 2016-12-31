@@ -1,0 +1,48 @@
+bin\Debug\Visual Command Block Dev.exe
+bin\Debug\Visual Command Block Dev.pdb
+bin\Debug\Visual Command Block Dev.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Visual_Command_Block_Dev.MainForm.resources
+obj\Debug\Visual_Command_Block_Dev.Resources.resources
+obj\Debug\Visual Command Block Dev.vbproj.GenerateResource.Cache
+obj\Debug\Visual Command Block Dev.exe
+obj\Debug\Visual Command Block Dev.xml
+obj\Debug\Visual Command Block Dev.pdb
+obj\Debug\Visual_Command_Block_Dev.setStartForm.resources
+obj\Debug\Visual_Command_Block_Dev.CbForm.resources
+obj\Debug\Visual_Command_Block_Dev.startCbForm.resources
+obj\Debug\Visual_Command_Block_Dev.setCbForm.resources
+bin\Release\Visual Command Block Dev.exe
+bin\Release\Visual Command Block Dev.pdb
+bin\Release\Visual Command Block Dev.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Visual_Command_Block_Dev.cbForm.resources
+obj\Release\Visual_Command_Block_Dev.MainForm.resources
+obj\Release\Visual_Command_Block_Dev.Resources.resources
+obj\Release\Visual_Command_Block_Dev.setCbForm.resources
+obj\Release\Visual_Command_Block_Dev.setStartForm.resources
+obj\Release\Visual_Command_Block_Dev.startCbForm.resources
+obj\Release\Visual Command Block Dev.vbproj.GenerateResource.Cache
+obj\Release\Visual Command Block Dev.exe
+obj\Release\Visual Command Block Dev.xml
+obj\Release\Visual Command Block Dev.pdb
+obj\Debug\Visual_Command_Block_Dev.aboutAuthor.resources
+obj\Release\Visual_Command_Block_Dev.aboutAuthor.resources
+obj\Debug\Visual_Command_Block_Dev.generationCommand.resources
+obj\Debug\Visual_Command_Block_Dev.iniCmd.resources
+bin\Release\Microsoft.VisualBasic.Compatibility.dll
+bin\Release\System.Data.dll
+bin\Release\System.Deployment.dll
+bin\Release\System.dll
+bin\Release\System.Drawing.dll
+bin\Release\System.Windows.Forms.dll
+bin\Release\System.Xml.dll
+obj\Release\Visual_Command_Block_Dev.generationCommand.resources
+obj\Release\Visual_Command_Block_Dev.iniCmd.resources
+bin\Debug\Microsoft.VisualBasic.Compatibility.dll
+bin\Debug\System.Data.dll
+bin\Debug\System.Deployment.dll
+bin\Debug\System.dll
+bin\Debug\System.Drawing.dll
+bin\Debug\System.Windows.Forms.dll
+bin\Debug\System.Xml.dll

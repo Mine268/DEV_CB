@@ -1,0 +1,6 @@
+
+True
+s|ICB|False|blockdata ~ ~ ~ {auto:0b}|{Tags:["g"]}
+d|CCB|True|say 3|
+ds|CCB|True|execute @e[tag=g] ~ ~ ~ blockdata ~ ~ ~ {auto:1b}|
+End_partN
